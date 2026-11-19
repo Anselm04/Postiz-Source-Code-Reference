@@ -1,0 +1,3 @@
+Upstream: https://github.com/gitroomhq/postiz-app
+Revision: 2f24e10f2204295f66a1999679e9896db3cb2094
+Original tree: 45a76147647dfa1c333445eae600f2be61a8779f

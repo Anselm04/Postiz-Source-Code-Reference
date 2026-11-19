@@ -1,0 +1,27 @@
+{
+  "upstream": "https://github.com/gitroomhq/postiz-app",
+  "upstream_commit": "2f24e10f2204295f66a1999679e9896db3cb2094",
+  "upstream_tree": "45a76147647dfa1c333445eae600f2be61a8779f",
+  "upstream_tracked_entries": 1062,
+  "upstream_blob_files": 1062,
+  "expected_source_files": 1052,
+  "verified_source_files": 1052,
+  "excluded_paths": {
+    ".github/workflows/build-containers.yml": "upstream workflow disabled",
+    ".github/workflows/build-extension.yaml": "upstream workflow disabled",
+    ".github/workflows/build.yml": "upstream workflow disabled",
+    ".github/workflows/codeql.yml": "upstream workflow disabled",
+    ".github/workflows/deploy-aws.yml": "upstream workflow disabled",
+    ".github/workflows/eslint": "upstream workflow disabled",
+    ".github/workflows/issue-label-triggers.yml": "upstream workflow disabled",
+    ".github/workflows/publish-extension.yml": "upstream workflow disabled",
+    ".github/workflows/staging-conflicts.yml": "upstream workflow disabled",
+    ".github/workflows/stale.yml": "upstream workflow disabled"
+  },
+  "missing_paths": [],
+  "mismatched_paths": [],
+  "extra_paths": [
+    ".github/workflows/import-reference.yml"
+  ],
+  "scope": "Tracked Git blobs; no external LFS payloads, submodule contents or full history."
+}
